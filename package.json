@@ -1,0 +1,12 @@
+{
+  "name": "oats-bug-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mause/oats-bug-demo",
+  "author": "Elliana May <me@mause.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@smartlyio/oats": "^4.4.0",
+    "typescript": "^4.7.3"
+  }
+}
